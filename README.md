@@ -16,6 +16,9 @@ Great examples of real world troubleshooting case studies, tools and resources.
 **[`^        back to top        ^`](#awesome-troubleshooting)**
 
 - [Mentorship Session: Stress-ng: How to Stress Test Your Computer (and Possibly Break It)](https://www.youtube.com/watch?v=gD3Hn02VSHA): The stress-ng tool is designed to stress test kernels and hardware. The presentation describes the various ways stress-ng can be used to exercise a system as well as the testing concepts that shape the project.
+- [Kubernetes throttling? It doesn't have to suck!](https://youtu.be/KCFFZ_qfKXk): Kubernetes has a bad habit of throttling CPU resources—leading to severely degraded performance or spiralling costs for extra, unnecessary infrastructure. 
+We put a K8s cluster in the lab to monitor how and when CPU throttling happens.
+
 
 ## Blog Posts
 
